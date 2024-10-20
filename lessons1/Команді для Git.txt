@@ -10,3 +10,5 @@ git branch -v
 
 Git checkout <ім'я нової гілки>
 Git checkout -b <ім'я нової гілки>
+
+git merge <ім'я нової гілки>
