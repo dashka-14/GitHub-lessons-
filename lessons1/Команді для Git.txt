@@ -1,5 +1,12 @@
 Git clone <https://github.com/dashka-14/GitHub-lessons-.git>
 git push
+git push --set-upstream origin les2
 
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
+
+
+git branch -v
+
+Git checkout <ім'я нової гілки>
+Git checkout -b <ім'я нової гілки>
